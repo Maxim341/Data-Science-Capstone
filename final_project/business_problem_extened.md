@@ -44,7 +44,7 @@ On first inspection it was interesting to see the number of unique values per co
 
 This suggests 'Postcode district' and 'Coverage' have the lowest entropy.
 
-### Post fourSquared data
+## Post fourSquared data
 
 _A local search-and-discovery app developed by Foursquare Labs Inc. The app provides personalized recommendations of places to go near a user's current location based on users' previous browsing history and check-in history._
 
