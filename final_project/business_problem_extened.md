@@ -52,4 +52,6 @@ The FourSqared developers api was utilised to enrich our data with 'things to do
 
 The Following graph shows a count of venues and a count of venue 'type' at each location:
 (As expected, they are highly correlated)
+
+
 ![](assets/business_problem-b3364249.png) ![](assets/business_problem-23fd7840.png)
